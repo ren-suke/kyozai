@@ -15,7 +15,6 @@
     width: 60%;
     display: flex;
     flex-direction: column;
-    // align-self: center;
     justify-content: space-between;
     align-items: flex-start;
 
@@ -67,6 +66,10 @@
     font-size: 2px;
     text-decoration: none;
     color: $dark;
+
+    &__img {
+      width: 25px;
+    }
   }
 
   &__title {

@@ -11,7 +11,7 @@ export const Header: React.FC<Props> = () => {
         <div className="header__nav">
           <h1 className="header__title">Kyozai</h1>
           <div className="header__button_container">
-            <button className="header__button"><img src={SearchIcon}/></button>
+            <button className="header__button"><img className="header__button__img" src={SearchIcon}/></button>
             <a className="header__button" href="https://google.com">お問い合わせ</a>
           </div>
         </div>
