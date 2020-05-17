@@ -36,7 +36,7 @@ export const Contents = () => {
               })
               return result;
             }).map(edge => 
-              <a className="card" href={edge.node.url} about="_blank" key={edge.node.id}>
+              <a className="card" href={edge.node.url} target="_blank" key={edge.node.id}>
                 <img className="card__image" src={edge.node.image_url} />
                 <div className="card__content-wrapper">
                   <h3 className="card__title">{edge.node.title}</h3>
