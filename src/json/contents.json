@@ -261,84 +261,84 @@
   {
   "title": "読売中高生新聞",
   "url": "https://www.yomiuri.co.jp/teen/",
-  "image_url": "",
+  "image_url": "https://pbs.twimg.com/profile_images/509222686086545408/zXw3LPFo_400x400.png",
   "description": "2020年の読売中高生新聞を無料公開中。一般的な新聞より図版が多く、子供でも読みやすい。休校期間限定。",
   "tags": "読書,中学生,高校生"
   },
   {
   "title": "KADOKAWA ヨメルバ",
   "url": "https://yomeruba.com/news/entry-9991.html",
-  "image_url": "",
+  "image_url": "https://yomeruba.com/archives/001/202001/217458558b0408f5172b64b041fa2169.png",
   "description": "「角川つばさ文庫」で人気の児童書24タイトルを無料公開中。5月31日まで。",
   "tags": "読書,小学生"
   },
   {
   "title": "理科ねっとわーく",
   "url": "https://rika-net.com/",
-  "image_url": "",
+  "image_url": "https://rika-net.com/common/img/main_img01.gif",
   "description": "小学3年生〜高校の範囲まで、幅広い教材が揃っている。実験動画やアニメーションなどがあり、教科書の内容をより深く理解するのに最適。",
   "tags": "受験勉強,理科"
   },
   {
   "title": "eboard",
   "url": "https://www.eboard.jp/list/?_ga=2.233240859.429201567.1589687668-837252475.1589687668",
-  "image_url": "",
+  "image_url": "https://cdn.peraichi.com/userData/5ea2a24b-3f68-4ee7-a98b-34750a00003c/img/5ea65659547d0/original.png",
   "description": "主に中学生向けで、全教科が動画で学べる。授業後には理解度を確かめる復習付きで、自分のペースで進められる。",
   "tags": "受験勉強,中学生"
   },
   {
   "title": "スタディギア for EIKEN",
   "url": "https://www.ei-navi.jp/service/studygear/",
-  "image_url": "",
+  "image_url": "https://www.ei-navi.jp/resources/studygear/sp/img/ttl.png",
   "description": "英検5級〜2級に対応した英検受験サポートサイト。休校期間はベーシックプランが無料で利用できる。",
   "tags": "英語,英検"
   },
   {
   "title": "Asuka Academy",
   "url": "https://www.asuka-academy.com/",
-  "image_url": "",
+  "image_url": "https://pbs.twimg.com/profile_images/620402129266589696/H-n0Rl47_400x400.png",
   "description": "MITやイェール大学等のトップレベル大学の各種講義やサイエンス動画を、字幕付きで無料配信。中高生でも理解できる教材もあり。",
   "tags": "高校生,大学生"
   },
   {
   "title": "LINEみらい財団",
   "url": "https://line.me/R/ti/p/%40438kxjqb",
-  "image_url": "",
+  "image_url": "https://static.line-scdn.net/linecorpweb-uit/1719bfe8b14/images/ico_mirai_ogp.jpg",
   "description": "LINEで動画教材を受講できる。英語はリスニング問題も付属、数学は5級〜準1級レベルまで対応するなど、幅広い層が利用できる。",
   "tags": "中学生,高校生"
   },
   {
   "title": "Z会 ",
   "url": "https://www.zkai.co.jp/muryoukyouzai-ck/",
-  "image_url": "",
+  "image_url": "https://www.zkai.co.jp/wp-content/uploads/2019/11/20200103/ogp.png",
   "description": "大学受験を控えた高校生向けに、Z会のリスニング問題や基礎ドリルを無料公開。学習法の解説もあり。",
   "tags": "受験勉強,高校生"
   },
   {
   "title": "Z会 ",
   "url": "https://www.zkai.co.jp/muryoukyouzai-el/",
-  "image_url": "",
+  "image_url": "https://www.zkai.co.jp/wp-content/uploads/2019/11/20200103/ogp.png",
   "description": "小学生向けにZ会のプログラミング教材や勉強のサポートドリルを無料公開。ダウンロードして使用することもできる。",
   "tags": "プログラミング,小学生"
   },
   {
   "title": "Benesse 進研ゼミ",
   "url": "https://www.benesse.co.jp/zemi/homestudy/workbook/",
-  "image_url": "",
+  "image_url": "https://pbs.twimg.com/profile_images/796873563496017924/ZGObfb3A_400x400.jpg",
   "description": "各学年別に主要教科の「3学期の総復習」をPDFで無料提供。小学1年生〜高校3年生まで幅広く対応。",
   "tags": "小学生,中学生,高校生"
   },
   {
   "title": "ちびむすドリル小学生",
   "url": "https://happylilac.net/syogaku.html",
-  "image_url": "",
+  "image_url": "https://happylilac.net/sns/ogp01.png",
   "description": "小学生向けに全教科の学習プリントを無料提供。印刷して使用できる。壁に貼って毎日復習できる学習ポスターもあり。",
   "tags": "小学生"
   },
   {
   "title": "ちびむすドリル中学生",
   "url": "https://happylilac.net/highschool.html",
-  "image_url": "",
+  "image_url": "https://happylilac.net/sns/ogp01.png",
   "description": "小学生向けに全教科の学習プリントを無料提供。印刷して使用できる。音楽などの副教科の教材もあり。",
   "tags": "中学生"
   }
