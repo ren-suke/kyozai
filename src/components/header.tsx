@@ -1,17 +1,20 @@
-import React from 'react';
-import { Link } from 'gatsby';
+import React, { useState } from 'react';
+import {SearchModal} from './searchModal';
 import SearchIcon from '../styles/search.svg';
 
 type Props = {};
 
 export const Header: React.FC<Props> = () => {
+  const [isShowModal, setIsShowModal] = useState<boolean>(false); 
+  
   return(
     <header className="header">
+      <SearchModal isOpen={isShowModal} onRequestClose={() => setIsShowModal(false)}/>
       <div className="header__container">
         <div className="header__nav">
           <h1 className="header__title">Kyozai</h1>
           <div className="header__button_container">
-            <button className="header__button"><img className="header__button__img" src={SearchIcon}/></button>
+            <button onClick={() => setIsShowModal(!isShowModal)} className="header__button"><img className="header__button__img" src={SearchIcon}/></button>
             <a className="header__button" href="https://google.com">お問い合わせ</a>
           </div>
         </div>

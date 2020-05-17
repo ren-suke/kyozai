@@ -1,0 +1,81 @@
+.ReactModal {
+  &__Content {
+    max-width: 300px;
+    width: 95%;
+    height: auto;
+    padding: 20px !important;
+    border: none !important;
+    border-radius: 16px !important;
+    background-color: $white !important;
+  }
+}
+
+.modal {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  &__search-items {
+    width: calc(100% - 20px);
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 16px;
+    margin-bottom: 12px;
+    border-radius: 16px;
+    background-color: white;
+    color: $dark;
+    span {
+      font-size: 0.9rem;
+      color: #666;
+    }
+    p {
+      margin: 2.5px 3px;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      background-color: $accent;
+      font-size: 0.9rem;
+      color: $white;
+      
+      span {
+        display: inline-block;
+        width: 12px;
+        height: 12px;
+        padding: 2px;
+        border-radius: 50%;
+        background-color: $white;
+        color: $accent;
+        font-size: 0.9rem;
+        text-align: center;
+        line-height: 100%;
+        cursor: pointer;
+      }
+    }
+  }
+
+  &__tags {
+    width: calc(100% - 20px);
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 16px;
+    border-radius: 16px;
+    background-color: white;
+
+    p {
+      margin: 2.5px 3px;
+      padding: 5px 10px;
+      border-radius: 9999px;
+      background-color: $accent;
+      font-size: 0.9rem;
+      color: $white;
+      cursor: pointer;
+    }
+  }
+};
