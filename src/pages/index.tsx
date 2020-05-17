@@ -3,6 +3,7 @@ import {SearchItemsContext} from "../context/SearchItemsContext";
 import Header from "../components/header";
 import "../styles/import.scss";
 import {Contents} from "../components/contents";
+import {Footer} from "../components/footer";
 
 type Props = {};
 const IndexPage: React.FC<Props> = () => {
@@ -11,6 +12,7 @@ const IndexPage: React.FC<Props> = () => {
     <SearchItemsContext.Provider value={{searchItems, setSearchItems}}>
       <Header />
       <Contents />
+      <Footer />
     </SearchItemsContext.Provider>
   )
 }

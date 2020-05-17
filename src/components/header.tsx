@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import {SearchModal} from './searchModal';
-import SearchIcon from '../styles/search.svg';
+import SearchIcon from './search.png';
+import FormIcon from './form.png';
 
 type Props = {};
 
@@ -15,11 +16,15 @@ export const Header: React.FC<Props> = () => {
           <h1 className="header__title">Kyozai</h1>
           <div className="header__button_container">
             <button onClick={() => setIsShowModal(!isShowModal)} className="header__button"><img className="header__button__img" src={SearchIcon}/></button>
-            <a className="header__button" href="https://google.com">お問い合わせ</a>
+            <a className="header__button" href="https://docs.google.com/forms/d/e/1FAIpQLSe4_pRn-aQwu_dgGJAIn9jCOM7VJMTdLsyy9Yp17aPlQEN7kg/viewform" target="_blank"><img className="header__button__img" src={FormIcon}/></a>
           </div>
         </div>
         <h2 className="header__catchcopy">学べる教材を見つけよう。</h2>
-        <p className="header__description">「学べる場所と学びたい人を繋げたい。（仮）」そんな思いから高校生3人が制作した、<br/>あらゆるジャンルの無料教材情報が入手できる総合学習サイトです。<br/>「　」ボタンをクリックして、学びたい教材のタグを検索するだけで、教材一覧が表示されます。<br/>「お問い合わせ（仮）」ボタンからは、あなたのオススメの教材を掲示する要望を出す事ができます。
+        <p className="header__description">
+          「学べる場所と学びたい人を繋げたい。」これまでは、優良コンテンツがネット上でリリースされても、
+          それを知る方法がありませんでした。でももう安心です。
+          kyozaiは、どこかの誰かが作ったハイクオリティな教材の情報がまとめて入手できる総合学習サイト。
+          ひと目であらゆる学習コンテンツを知ることができます。
         </p>
       </div>
     </header>

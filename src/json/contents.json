@@ -9,15 +9,15 @@
   {
   "title": "ドットインストール",
   "url": "https://dotinstall.com/",
-  "image_url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAbFBMVEX1mgD////1lwD0kwD+8uj1lgD979v0kgD3sUr97ND97tj4uWT4u2r4uGD96tH979z3tFf3slD73bX2pjH84r/71af96Mn3tFb72q760Z360Jf//Pb3sEb+9+z3q0D5yoz2pSH5xID2pzX2pSfbzQwRAAAEgElEQVR4nO2d6XajMAxGg11DSrbStE2XSbe8/zsOMG0HAqEWIC863/3fE24tIWEO8mIBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAcymitjfJ9GWwos7x/uH64L4Q6KrVKk3+kKyXPUel1nvwnX2tZjirbpEmbdJPJcVRms0u67DZC8lGpVnw2ydcC8lHpVd/6/azjKvJ8VLo3PtuxGrGjUp37Sx/pJtJYVeZi/nXycRWhYpl/Nuv3zbvv66VyoT5c5Nr3BRMp+zPb+KzZHrTvSyZR9meU+Ey2N3HdTMv+jBSf20NcjQ01/7ZFXM0poT7EGZ+0+lD6RRafv/dnLfLIHvQbz+9264f8Cwq+/FPaBPCvoNcH24tWpsj97wOM6M+s/Tbb+k9yn/ty9Pi09tM3258/S33tA/Tsnw37WdcHlRXtyPCyL1c+vzP1Z8o01u+bnet9AL76UHYOXb+KfO3wnsNZH3rW7xtn+Ujuz5b2fsVwZDjZlyP3Z4dJ+XcO+zuds/crv/uNqw9D8L7T0cT6YJ9/2cHOr2JXsG3rmEeSH60/o/BoeAT1E8XPPj7NhfowwDPPKu4JftYNs3X+tTlxCBrrJZzQn9nyxBGn2vJaJvZnduQcYaqvrPym92c2XPkynKk/C9YwX7LVhyAMRzy/R2XI0J8FZWj/fqWsD9P9nBtS6sNhWv55MXxh7c9CMPyw/LFZ8s+L4R+rFfz1+T1gw6WFYdmfXc/oF5zhpP4sAkPS83uEhpP7s8ANZ6wPQRrOWh8CNBz9/B6L4Vz9WbCG71zxGYqhuWUVDMBQz9vC+DXs7UtFGa77ti5FGR5PPb8myjBJbk+dPQxhhkny+Hn2nC/OsFzHfes3BRqWju+NXxVp2MpHoYal46cWblitoxZu+BWrog2r+6rJOB+dEu+GZX185pOr8W7IDgxhCMMWd693bu0qnBq+Gn1y7uh6n0Zp1+vofidKGbeOPvbalN47dPSzm6iyT2eOvvZL3eWjvx1hV/noc89bOakdfnf1XcSq7/cWSq+FGy4WGemzhRgNRe1iyH/39JxJN0zeFt33a7IMk2PXUZhhj6M4wyR5eTNNR4GGlWNjHUUatmJVqGHlqIxsw59YFWz45SjasM7H7Mjpx2VIeGF2ZBbk+f7Q/htSB7B8Q7o4+dZqsOcQXGju1572PDF9kU/7Hp8Rru/xy1UsmDcnrEg3jKMyqXMxGGCfdU6dbTIzTubVU+fTzIizudHUGUMz4XTmF3VO1Aw4nRNVOxJnfU3E+ayv2pE4r20C3s5RcJSP3mbu1Y7EuYkj8Do3sXYkzr4k4n32Ze3IF6te47MJU+1wXh+GYOjlgjtPaOZeLshzPWbMx2Dy75yZ8jGo/DtnhtoRRH0Ygno2QscvglHm1PMtGqSxnFU2spfz3p9RGJGPweffOcTaEWx9GIJy3lPI9WEI6Wd2VUg/d61C+tl5FdLPP6yQfoZlhfRzSCuknyVbIf084AplivpMZ+ujBCJE+rncAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMDNX0NxV22hp86cAAAAAElFTkSuQmCC",
-  "description": "プログラミングを動画で学習できるサイト。実際の画面を見ながら学習を進めることができるので、丁寧に進むことができる。",
+  "image_url": "https://pbs.twimg.com/profile_images/1139025049413750784/biw-hV58_400x400.png",
+  "description": "プログラミングを動画で学習できるサイト。実際の画面を見ながら学習を行うことができるので、丁寧に進むことができる。",
   "tags": "プログラミング"
   },
   {
   "title": "みらいい",
   "url": "https://miraii.jp/archives/live-schedule",
   "image_url": "https://miraii.jp/wp-content/uploads/2020/03/スクリーンショット-2020-03-06-13.06.35.png",
-  "description": "小学生がプログラミングに必要な思考法を習得することができるYoutube動画チャンネル。飽きずに楽しく学習を進めるための工夫が盛り沢山。",
+  "description": "小学生がプログラミングに必要な思考法を習得することができるYoutubeチャンネル。飽きずに楽しく学習を進めるための工夫が盛り沢山。",
   "tags": "プログラミング,小学生"
   },
   {
@@ -31,7 +31,7 @@
   "title": "N予備校",
   "url": "https://www.nnn.ed.nico/",
   "image_url": "https://www.nnn.ed.nico/pages_assets/images/index/feature/logo-7aaf175200a6b7643a12c35862b02564.png",
-  "description": "教材や問題、授業等が一つにまとめられている、N高が提供する学習サイト。Q＆Aが非常に充実しており、取り扱っている範囲も多岐に渡る。",
+  "description": "教材・問題・授業等が一つにまとめられている学習サイト。Q＆Aが非常に充実しており、取り扱っている範囲も多岐に渡る。プログラミング教材も有り。",
   "tags": "受験勉強,プログラミング"
   },
   {
@@ -65,7 +65,7 @@
   {
   "title": "アルク 英語学習",
   "url": "https://globaledu.jp/alc-36940.html?p=36940",
-  "image_url": "data:image/jpeg;base64,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",
+  "image_url": "https://pbs.twimg.com/profile_images/1083623301002350593/p0E1uDnq_400x400.jpg",
   "description": "実践的に英単語を学習することができる数多くの教材を提供している。音声付きのため、ボキャブラリー以外にも、英語力を総合的に高めることができる。",
   "tags": "英語"
   },
@@ -75,5 +75,271 @@
   "image_url": "https://yorikuwa.com/wp-content/uploads/2019/02/cd6fd1ff2a5b5dcc4c911752a318d485.png",
   "description": "実際に高校で使われている教科書の内容を、教科書より詳しく解説してくれるサイト。教科書の答えと解説もあり。",
   "tags": "受験勉強,数学"
+  },
+  {
+  "title": "映像授業Try IT",
+  "url": "https://www.youtube.com/watch?v=yrOS0cDIDB4&list=PLiRy47VSZM62EhUHIFrX4dSrQcqbkQOPL",
+  "image_url": "https://assets.try-it.jp/assets/og_image-6e42816293c46bbf1ff6f22e9f02153638dd8ee74bab8e469a57f71a82c90809.png",
+  "description": "全14動画で中学数学の平面、空間図形をまとめて学習できる。ポイントや練習問題、授業のまとめなど、理解しやすい構成となっている。",
+  "tags": "受験勉強,中学生,数学"
+  },
+  {
+  "title": "映像授業Try IT",
+  "url": "https://www.youtube.com/watch?v=BpCrgXd5nas&list=PLiRy47VSZM61Hcq4kA99hAeEQ_qmzWL7q",
+  "image_url": "https://assets.try-it.jp/assets/og_image-6e42816293c46bbf1ff6f22e9f02153638dd8ee74bab8e469a57f71a82c90809.png",
+  "description": "全13動画で中学理科の生物をまとめて学習できる。テストに出やすいポイントの解説や練習問題なども充実。",
+  "tags": "受験勉強,中学生,理科"
+  },
+  {
+  "title": "映像授業Try IT",
+  "url": "https://www.youtube.com/watch?v=FC5vrSoNuhM&list=PLiRy47VSZM60HGgvO7n02ptlHZU9NSgsP",
+  "image_url": "https://assets.try-it.jp/assets/og_image-6e42816293c46bbf1ff6f22e9f02153638dd8ee74bab8e469a57f71a82c90809.png",
+  "description": "全10動画で中学理科の物理をまとめて学習できる。テストに出やすいポイントの解説や練習問題なども充実。",
+  "tags": "受験勉強,中学生,理科"
+  },
+  {
+  "title": "映像授業Try IT",
+  "url": "https://www.youtube.com/watch?v=WCNNmQ-y6Yk&list=PLiRy47VSZM61ywCvCX-UqhpdeAiavtUmm",
+  "image_url": "https://assets.try-it.jp/assets/og_image-6e42816293c46bbf1ff6f22e9f02153638dd8ee74bab8e469a57f71a82c90809.png",
+  "description": "全12動画で中学公民の「憲法と人権」単元をまとめて学習できる。テストに出やすいポイントの解説や練習問題なども充実。",
+  "tags": "受験勉強,中学生,公民"
+  },
+  {
+  "title": "映像授業Try IT",
+  "url": "https://www.youtube.com/watch?v=x1Wc38aQW7Y&list=PLiRy47VSZM62gMjQCsQ1HSGFrwGGrjKYp",
+  "image_url": "https://assets.try-it.jp/assets/og_image-6e42816293c46bbf1ff6f22e9f02153638dd8ee74bab8e469a57f71a82c90809.png",
+  "description": "全20動画で高校英語の「動名詞」がマスターできる。ポイントの解説や授業のまとめもあり、総復習にも最適。",
+  "tags": "受験勉強,高校生,英語"
+  },
+  {
+  "title": "映像授業Try IT",
+  "url": "https://www.youtube.com/watch?v=RVuY0nzCNP0&list=PLiRy47VSZM63FEP--zQoU-Nr5PuY0sV_i",
+  "image_url": "https://assets.try-it.jp/assets/og_image-6e42816293c46bbf1ff6f22e9f02153638dd8ee74bab8e469a57f71a82c90809.png",
+  "description": "全32動画で高校英語の「時制」がマスターできる。ポイントの解説や授業のまとめもあり、総復習にも最適。",
+  "tags": "受験勉強,高校生,英語"
+  },
+  {
+  "title": "映像授業Try IT",
+  "url": "https://www.youtube.com/watch?v=6BwJdPYm5do&list=PLiRy47VSZM61vGW3RRl0GDiEcVZWijd4h",
+  "image_url": "https://assets.try-it.jp/assets/og_image-6e42816293c46bbf1ff6f22e9f02153638dd8ee74bab8e469a57f71a82c90809.png",
+  "description": "全32動画で高校英語の「形容詞・副詞」がマスターできる。ポイントの解説や授業のまとめもあり、総復習にも最適。",
+  "tags": "受験勉強,高校生,英語"
+  },
+  {
+  "title": "映像授業Try IT",
+  "url": "https://www.youtube.com/watch?v=f3z7JUortUU&list=PLiRy47VSZM62jRSX3TZ6OxvyYTJ834Khe",
+  "image_url": "https://assets.try-it.jp/assets/og_image-6e42816293c46bbf1ff6f22e9f02153638dd8ee74bab8e469a57f71a82c90809.png",
+  "description": "全30動画で高校英語の「代名詞」がマスターできる。ポイントの解説や授業のまとめもあり、総復習にも最適。",
+  "tags": "受験勉強,高校生,英語"
+  },
+  {
+  "title": "映像授業Try IT",
+  "url": "https://www.youtube.com/watch?v=0Kh4AhuRIZQ&list=PLiRy47VSZM60Lypi6rsq2QwKmUWH3reIT",
+  "image_url": "https://assets.try-it.jp/assets/og_image-6e42816293c46bbf1ff6f22e9f02153638dd8ee74bab8e469a57f71a82c90809.png",
+  "description": "全34動画で高校英語の「動詞」がマスターできる。ポイントの解説や授業のまとめもあり、総復習にも最適。",
+  "tags": "受験勉強,高校生,英語"
+  },
+  {
+  "title": "映像授業Try IT",
+  "url": "https://www.youtube.com/watch?v=ktPF1v6r6l4&list=PLiRy47VSZM63z8RO4664vh5n-qG9VDNZI",
+  "image_url": "https://assets.try-it.jp/assets/og_image-6e42816293c46bbf1ff6f22e9f02153638dd8ee74bab8e469a57f71a82c90809.png",
+  "description": "全20動画で高校英語の「受動態」がマスターできる。ポイントの解説や授業のまとめもあり、総復習にも最適。",
+  "tags": "受験勉強,高校生,英語"
+  },
+  {
+  "title": "映像授業Try IT",
+  "url": "https://www.youtube.com/watch?v=H29iGCqeBz4&list=PLiRy47VSZM61nl-EhkiXh7sm_34mZ4DTp",
+  "image_url": "https://assets.try-it.jp/assets/og_image-6e42816293c46bbf1ff6f22e9f02153638dd8ee74bab8e469a57f71a82c90809.png",
+  "description": "全40動画で高校英語の「比較」がマスターできる。ポイントの解説や授業のまとめもあり、総復習にも最適。",
+  "tags": "受験勉強,高校生,英語"
+  },
+  {
+  "title": "映像授業Try IT",
+  "url": "https://www.youtube.com/watch?v=H9E1SiFXUl0&list=PLiRy47VSZM61uo1AGb_zx7P1FW8VlSXaN",
+  "image_url": "https://assets.try-it.jp/assets/og_image-6e42816293c46bbf1ff6f22e9f02153638dd8ee74bab8e469a57f71a82c90809.png",
+  "description": "全20動画で高校英語の「仮定法」がマスターできる。ポイントの解説や授業のまとめもあり、総復習にも最適。",
+  "tags": "受験勉強,高校生,英語"
+  },
+  {
+  "title": "映像授業Try IT",
+  "url": "https://www.youtube.com/watch?v=19uttgFnpkA&list=PLiRy47VSZM613-Ga0wK23xVVVyL4p1IpV",
+  "image_url": "https://assets.try-it.jp/assets/og_image-6e42816293c46bbf1ff6f22e9f02153638dd8ee74bab8e469a57f71a82c90809.png",
+  "description": "全28動画で高校英語の「不定詞」がマスターできる。ポイントの解説や授業のまとめもあり、総復習にも最適。",
+  "tags": "受験勉強,高校生,英語"
+  },
+  {
+  "title": "映像授業Try IT",
+  "url": "https://www.youtube.com/watch?v=-BVbwkqAf3A&list=PLiRy47VSZM63xErlacUydtWZUp7Kwf8Co",
+  "image_url": "https://assets.try-it.jp/assets/og_image-6e42816293c46bbf1ff6f22e9f02153638dd8ee74bab8e469a57f71a82c90809.png",
+  "description": "全22動画で高校英語の「助動詞」がマスターできる。ポイントの解説や授業のまとめもあり、総復習にも最適。",
+  "tags": "受験勉強,高校生,英語"
+  },
+  {
+  "title": "映像授業Try IT",
+  "url": "https://www.youtube.com/watch?v=tWK9ifBAK5I&list=PLiRy47VSZM62K4XH-OYSOMp6rb8fdoYzD",
+  "image_url": "https://assets.try-it.jp/assets/og_image-6e42816293c46bbf1ff6f22e9f02153638dd8ee74bab8e469a57f71a82c90809.png",
+  "description": "全24動画で高校英語の「分詞」がマスターできる。ポイントの解説や授業のまとめもあり、総復習にも最適。",
+  "tags": "受験勉強,高校生,英語"
+  },
+  {
+  "title": "映像授業Try IT",
+  "url": "https://www.youtube.com/watch?v=Ap6HxyM_WQI&list=PLiRy47VSZM62KmcLxfxTQr_159ZVUnnOk",
+  "image_url": "https://assets.try-it.jp/assets/og_image-6e42816293c46bbf1ff6f22e9f02153638dd8ee74bab8e469a57f71a82c90809.png",
+  "description": "全20動画で高校英語の「名詞・冠詞」がマスターできる。ポイントの解説や授業のまとめもあり、総復習にも最適。",
+  "tags": "受験勉強,高校生,英語"
+  },
+  {
+  "title": "映像授業Try IT",
+  "url": "https://www.youtube.com/watch?v=AjgqFl796B8&list=PLiRy47VSZM63ZMPCBCivZB2Meqsz6zSI9",
+  "image_url": "https://assets.try-it.jp/assets/og_image-6e42816293c46bbf1ff6f22e9f02153638dd8ee74bab8e469a57f71a82c90809.png",
+  "description": "全19動画で高校数学Ⅰの「三角比」をマスターできる。ポイントや例題、練習問題も充実しており、復習にも最適。",
+  "tags": "受験勉強,高校生,数学"
+  },
+  {
+  "title": "映像授業Try IT",
+  "url": "https://www.youtube.com/watch?v=iU_X-hPbovo&list=PLiRy47VSZM60d4FPdHxEQgB_MHptjXBBK",
+  "image_url": "https://assets.try-it.jp/assets/og_image-6e42816293c46bbf1ff6f22e9f02153638dd8ee74bab8e469a57f71a82c90809.png",
+  "description": "全15動画で高校数学Ⅱの「対数関数」をマスターできる。ポイントや例題、練習問題も充実しており、復習にも最適。",
+  "tags": "受験勉強,高校生,数学"
+  },
+  {
+  "title": "映像授業Try IT",
+  "url": "https://www.youtube.com/watch?v=dx6wIIl93bc&list=PLiRy47VSZM60Sh00aEz5ZZDbvdD1bGfR2",
+  "image_url": "https://assets.try-it.jp/assets/og_image-6e42816293c46bbf1ff6f22e9f02153638dd8ee74bab8e469a57f71a82c90809.png",
+  "description": "全15動画で高校数学Ⅱの「積分法」をマスターできる。ポイントや例題、練習問題も充実しており、復習にも最適。",
+  "tags": "受験勉強,高校生,数学"
+  },
+  {
+  "title": "映像授業Try IT",
+  "url": "https://www.youtube.com/watch?v=uW5HnTQ6eb8&list=PLiRy47VSZM61Fbu4l06n-O9ptfZm2n7Xr",
+  "image_url": "https://assets.try-it.jp/assets/og_image-6e42816293c46bbf1ff6f22e9f02153638dd8ee74bab8e469a57f71a82c90809.png",
+  "description": "全20動画で高校数学Ⅲの「2次曲線」をマスターできる。ポイントや例題、練習問題も充実しており、復習にも最適。",
+  "tags": "受験勉強,高校生,数学"
+  },
+  {
+  "title": "EEvideo",
+  "url": "https://www.eevideo.net",
+  "image_url": "https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/eb/b5/08/ebb508b1-a3c5-9470-0287-2134785645c3/source/512x512bb.jpg",
+  "description": "時事ネタやトリビアなどを題材にした動画を用いて、楽しく英語学習を進めることができる。英語レベルに合わせたサポート有り。",
+  "tags": "英語"
+  },
+  {
+  "title": "テクノロジア魔法学校",
+  "url": "https://www.technologia-schoolofmagic.jp/oc/",
+  "image_url": "https://i.pinimg.com/736x/f2/54/bc/f254bc7d53d4abc5365826910986a295.jpg",
+  "description": "ディズニーの世界で謎解きやストーリーを楽しみながらプログラミングスキルを習得することができる。挫折しないで学習を進めたい人に最適。",
+  "tags": "プログラミング"
+  },
+  {
+  "title": "プログラミングクエスト",
+  "url": "https://school.tsukurukids.com",
+  "image_url": "https://school.tsukurukids.com/assets/img/top/title_logo.gif",
+  "description": "ゲームの作成を進めながらプログラミングの基礎となる思考法を身に付けることができる。1つの動画が短く、自分のペースで進めることができる。",
+  "tags": "プログラミング,小学生"
+  },
+  {
+  "title": "寿司打",
+  "url": "http://typingx0.net/sushida/",
+  "image_url": "https://lh3.googleusercontent.com/proxy/Jx6ttK8j8NwFCLYfNqWEBD44Xad6tzYmvmMbI50J4LYD2D5JZVHVhZWv6AEmYAOBiVsYftFUVNqBtMkIULWIUNdr1tbXWAj6iQ",
+  "description": "回転寿司の上に書いてある文字を時間内に入力してスコアを稼ぐタイピング学習サイト。空き時間の練習でタイピングの速度を早めることができる。",
+  "tags": "タイピング"
+  },
+  {
+  "title": "はやべん",
+  "url": "https://imamirai-school.com/hayaben/お申し込み方法/",
+  "image_url": "https://imamirai-school.com/wp-content/uploads/2020/04/hayaben_1000_562-scaled.jpg",
+  "description": "早押しクイズを用いて学習ができるアプリ。計算・社会・英語・国語・理科の科目をゲーム感覚で楽しく身につけていくことができる。",
+  "tags": "受験勉強"
+  },
+  {
+  "title": "学研 春の応援ライブラリ",
+  "url": "https://bpub.jp/2020spring",
+  "image_url": "https://pbs.twimg.com/profile_images/845224624644247553/iOpZfixL_400x400.jpg",
+  "description": "「まんがでよくわかる」シリーズなど、学研の電子書籍が無料で読み放題。休校期間限定。",
+  "tags": "読書,小学生,中学生"
+  },
+  {
+  "title": "読売中高生新聞",
+  "url": "https://www.yomiuri.co.jp/teen/",
+  "image_url": "",
+  "description": "2020年の読売中高生新聞を無料公開中。一般的な新聞より図版が多く、子供でも読みやすい。休校期間限定。",
+  "tags": "読書,中学生,高校生"
+  },
+  {
+  "title": "KADOKAWA ヨメルバ",
+  "url": "https://yomeruba.com/news/entry-9991.html",
+  "image_url": "",
+  "description": "「角川つばさ文庫」で人気の児童書24タイトルを無料公開中。5月31日まで。",
+  "tags": "読書,小学生"
+  },
+  {
+  "title": "理科ねっとわーく",
+  "url": "https://rika-net.com/",
+  "image_url": "",
+  "description": "小学3年生〜高校の範囲まで、幅広い教材が揃っている。実験動画やアニメーションなどがあり、教科書の内容をより深く理解するのに最適。",
+  "tags": "受験勉強,理科"
+  },
+  {
+  "title": "eboard",
+  "url": "https://www.eboard.jp/list/?_ga=2.233240859.429201567.1589687668-837252475.1589687668",
+  "image_url": "",
+  "description": "主に中学生向けで、全教科が動画で学べる。授業後には理解度を確かめる復習付きで、自分のペースで進められる。",
+  "tags": "受験勉強,中学生"
+  },
+  {
+  "title": "スタディギア for EIKEN",
+  "url": "https://www.ei-navi.jp/service/studygear/",
+  "image_url": "",
+  "description": "英検5級〜2級に対応した英検受験サポートサイト。休校期間はベーシックプランが無料で利用できる。",
+  "tags": "英語,英検"
+  },
+  {
+  "title": "Asuka Academy",
+  "url": "https://www.asuka-academy.com/",
+  "image_url": "",
+  "description": "MITやイェール大学等のトップレベル大学の各種講義やサイエンス動画を、字幕付きで無料配信。中高生でも理解できる教材もあり。",
+  "tags": "高校生,大学生"
+  },
+  {
+  "title": "LINEみらい財団",
+  "url": "https://line.me/R/ti/p/%40438kxjqb",
+  "image_url": "",
+  "description": "LINEで動画教材を受講できる。英語はリスニング問題も付属、数学は5級〜準1級レベルまで対応するなど、幅広い層が利用できる。",
+  "tags": "中学生,高校生"
+  },
+  {
+  "title": "Z会 ",
+  "url": "https://www.zkai.co.jp/muryoukyouzai-ck/",
+  "image_url": "",
+  "description": "大学受験を控えた高校生向けに、Z会のリスニング問題や基礎ドリルを無料公開。学習法の解説もあり。",
+  "tags": "受験勉強,高校生"
+  },
+  {
+  "title": "Z会 ",
+  "url": "https://www.zkai.co.jp/muryoukyouzai-el/",
+  "image_url": "",
+  "description": "小学生向けにZ会のプログラミング教材や勉強のサポートドリルを無料公開。ダウンロードして使用することもできる。",
+  "tags": "プログラミング,小学生"
+  },
+  {
+  "title": "Benesse 進研ゼミ",
+  "url": "https://www.benesse.co.jp/zemi/homestudy/workbook/",
+  "image_url": "",
+  "description": "各学年別に主要教科の「3学期の総復習」をPDFで無料提供。小学1年生〜高校3年生まで幅広く対応。",
+  "tags": "小学生,中学生,高校生"
+  },
+  {
+  "title": "ちびむすドリル小学生",
+  "url": "https://happylilac.net/syogaku.html",
+  "image_url": "",
+  "description": "小学生向けに全教科の学習プリントを無料提供。印刷して使用できる。壁に貼って毎日復習できる学習ポスターもあり。",
+  "tags": "小学生"
+  },
+  {
+  "title": "ちびむすドリル中学生",
+  "url": "https://happylilac.net/highschool.html",
+  "image_url": "",
+  "description": "小学生向けに全教科の学習プリントを無料提供。印刷して使用できる。音楽などの副教科の教材もあり。",
+  "tags": "中学生"
   }
 ]
