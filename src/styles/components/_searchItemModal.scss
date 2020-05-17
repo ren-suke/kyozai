@@ -15,6 +15,18 @@
   flex-direction: column;
   justify-content: space-around;
   align-items: center;
+
+  &__title {
+    font-size: 1.3rem;
+    color: $dark;
+    align-self: left;
+    padding: 10px 0;
+  }
+  &__description {
+    font-size: 0.8rem;
+    color: #666;
+    margin-bottom: 10px;
+  }
   &__search-items {
     width: calc(100% - 20px);
     height: auto;

@@ -61,6 +61,8 @@ export const SearchModal: React.FC<Props> = ({
       onRequestClose={() => onRequestClose()}
       style={customStyles}>
       <div className="modal">
+        <h3 className="modal__title">タグでフィルタリングする</h3>
+        <p className="modal__description">タグを追加すると自動でフィルタリングされます</p>
         <div className="modal__search-items">
           {searchItems.length !== 0 ? searchItems.filter((tag, i, self) => {
             return self.indexOf(tag) === i;
