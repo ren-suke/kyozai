@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Default Starter`,
-    description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
-    author: `@gatsbyjs`,
+    title: `Kyozai`,
+    description: `「学べる場所と学びたい人を繋げたい。」これまでは、優良コンテンツがネット上でリリースされても、 それを知る方法がありませんでした。でももう安心です。 Kyozaiは、どこかの誰かが作ったハイクオリティな教材の情報がまとめて入手できる総合学習サイト。 ひと目であらゆる学習コンテンツを知ることができます。`,
+    author: `Ren Matsushita`,
   },
   plugins: [
     `gatsby-plugin-sass`,
