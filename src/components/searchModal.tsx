@@ -71,7 +71,7 @@ export const SearchModal: React.FC<Props> = ({
               {item} <span onClick={() => setSearchItems(searchItems.filter(_item => item !== _item))}>×</span>
             </p>
           ) :
-          <span>タグでソートする</span>
+          <span>タグを選択してください</span>
         } 
         </div>
         <div className="modal__tags">
